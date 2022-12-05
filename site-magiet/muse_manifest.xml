@@ -1,0 +1,1724 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="sftp://158.170.66.101" ftp_rootfolder="/site-magiet" exportTarget="FTP" domain="http://www.magiet.usach.cl" resolutions="1x" timestamp="1669132864476">
+  <folder name="css">
+    <file name="site_global.css" crc="400201224"/>
+    <file name="master_a-master.css" crc="4227434587" ref="blog:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:gracias:noticias_jornada:noticias-patricio_chaparro:noticias_acreditacion:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:contacto2:noticias-freddy_faundez:noticias_rey_felipe:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_embajador_usach:noticias_geraldine_volcanes:noticias-manuel_mata:index:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:acreditacion-magiet:entrevista_yasna_m_c:noticias-beca_especial:noticias-natalia_garrido:noticias-curso_innovo:programa_:noticias_autoevaluacion:academicos_:blog-version-02:blog-version-01"/>
+    <file name="nomq_preview_master_a-master.css" crc="4187088631" ref="blog:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:gracias:noticias_jornada:noticias-patricio_chaparro:noticias_acreditacion:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:contacto2:noticias-freddy_faundez:noticias_rey_felipe:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_embajador_usach:noticias_geraldine_volcanes:noticias-manuel_mata:index:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:acreditacion-magiet:entrevista_yasna_m_c:noticias-beca_especial:noticias-natalia_garrido:noticias-curso_innovo:programa_:noticias_autoevaluacion:academicos_:blog-version-02:blog-version-01"/>
+    <file name="blog.css" crc="4289052971" ref="blog"/>
+    <file name="nomq_blog.css" crc="348739816" ref="blog"/>
+    <file name="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.css" crc="4187447394" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="nomq_academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.css" crc="3895951039" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="gracias.css" crc="3816368373" ref="gracias"/>
+    <file name="nomq_gracias.css" crc="515554163" ref="gracias"/>
+    <file name="noticias_jornada.css" crc="456969802" ref="noticias_jornada"/>
+    <file name="nomq_noticias_jornada.css" crc="4029467424" ref="noticias_jornada"/>
+    <file name="noticias-patricio_chaparro.css" crc="535718989" ref="noticias-patricio_chaparro"/>
+    <file name="nomq_noticias-patricio_chaparro.css" crc="140943738" ref="noticias-patricio_chaparro"/>
+    <file name="noticias_acreditacion.css" crc="200834133" ref="noticias_acreditacion"/>
+    <file name="nomq_noticias_acreditacion.css" crc="4196345348" ref="noticias_acreditacion"/>
+    <file name="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.css" crc="4148438238" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="nomq_magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.css" crc="230882627" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="contacto2.css" crc="3835186115" ref="contacto2"/>
+    <file name="nomq_contacto2.css" crc="4267702063" ref="contacto2"/>
+    <file name="noticias-freddy_faundez.css" crc="4020752159" ref="noticias-freddy_faundez"/>
+    <file name="nomq_noticias-freddy_faundez.css" crc="394348701" ref="noticias-freddy_faundez"/>
+    <file name="noticias_rey_felipe.css" crc="224945219" ref="noticias_rey_felipe"/>
+    <file name="nomq_noticias_rey_felipe.css" crc="503036138" ref="noticias_rey_felipe"/>
+    <file name="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.css" crc="204109185" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="nomq_contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.css" crc="475580927" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="noticias_leandro.css" crc="3869112699" ref="noticias_leandro"/>
+    <file name="nomq_noticias_leandro.css" crc="3882057289" ref="noticias_leandro"/>
+    <file name="noticias_embajador_usach.css" crc="161752027" ref="noticias_embajador_usach"/>
+    <file name="nomq_noticias_embajador_usach.css" crc="3820856066" ref="noticias_embajador_usach"/>
+    <file name="noticias_geraldine_volcanes.css" crc="3964366976" ref="noticias_geraldine_volcanes"/>
+    <file name="nomq_noticias_geraldine_volcanes.css" crc="4084823514" ref="noticias_geraldine_volcanes"/>
+    <file name="noticias-manuel_mata.css" crc="3896494235" ref="noticias-manuel_mata"/>
+    <file name="nomq_noticias-manuel_mata.css" crc="141246739" ref="noticias-manuel_mata"/>
+    <file name="index.css" crc="211857005" ref="index"/>
+    <file name="nomq_index.css" crc="307794773" ref="index"/>
+    <file name="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.css" crc="262770484" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="nomq_programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.css" crc="4053815062" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="magiet_.css" crc="4289052971" ref="magiet_"/>
+    <file name="nomq_magiet_.css" crc="348739816" ref="magiet_"/>
+    <file name="acreditacion-magiet.css" crc="255329477" ref="acreditacion-magiet"/>
+    <file name="nomq_acreditacion-magiet.css" crc="4015781853" ref="acreditacion-magiet"/>
+    <file name="entrevista_yasna_m_c.css" crc="333728160" ref="entrevista_yasna_m_c"/>
+    <file name="nomq_entrevista_yasna_m_c.css" crc="4040419473" ref="entrevista_yasna_m_c"/>
+    <file name="noticias-beca_especial.css" crc="4209718089" ref="noticias-beca_especial"/>
+    <file name="nomq_noticias-beca_especial.css" crc="3948169123" ref="noticias-beca_especial"/>
+    <file name="noticias-natalia_garrido.css" crc="4003066384" ref="noticias-natalia_garrido"/>
+    <file name="nomq_noticias-natalia_garrido.css" crc="3853940021" ref="noticias-natalia_garrido"/>
+    <file name="noticias-curso_innovo.css" crc="4191083963" ref="noticias-curso_innovo"/>
+    <file name="nomq_noticias-curso_innovo.css" crc="3885316887" ref="noticias-curso_innovo"/>
+    <file name="programa_.css" crc="4289052971" ref="programa_"/>
+    <file name="nomq_programa_.css" crc="348739816" ref="programa_"/>
+    <file name="noticias_autoevaluacion.css" crc="4165846416" ref="noticias_autoevaluacion"/>
+    <file name="nomq_noticias_autoevaluacion.css" crc="3940422091" ref="noticias_autoevaluacion"/>
+    <file name="academicos_.css" crc="4289052971" ref="academicos_"/>
+    <file name="nomq_academicos_.css" crc="348739816" ref="academicos_"/>
+    <file name="blog-version-02.css" crc="419219581" ref="blog-version-02"/>
+    <file name="nomq_blog-version-02.css" crc="120060894" ref="blog-version-02"/>
+    <file name="blog-version-01.css" crc="3807308030" ref="blog-version-01"/>
+    <file name="nomq_blog-version-01.css" crc="3959222041" ref="blog-version-01"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="museutils.js" crc="4232573551" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="whatinput.js" crc="86476730" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="webpro.js" crc="3770351119" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="require.js" crc="4234670167" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:acreditacion-magiet"/>
+    <file name="form_check.php" crc="3841221102" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="form_process.php" crc="3899230280" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="form-u334973.php" crc="437742423" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="form-u334684.php" crc="189503380" ref="contacto2"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-magiet-f.png" crc="4013276537" ref="index:blog-version-01">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corrm.png" crc="454158805" ref="index:blog-version-01">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+    </file>
+    <file name="link3.png" crc="4054907609" ref="index:blog-version-01">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+    </file>
+    <file name="telm.png" crc="217217678" ref="index:blog-version-01">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+    </file>
+    <file name="banner-magiet-2022.jpg" crc="3951313029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:magiet_:programa_:academicos_:academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:blog:noticias-patricio_chaparro:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:gracias:noticias-beca_especial:noticias_autoevaluacion:acreditacion-magiet:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:contacto2:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-01:blog-version-02"/>
+    <file name="loading.gif" crc="3815509949" ref="index:noticias_jornada:noticias-manuel_mata:noticias_autoevaluacion:acreditacion-magiet"/>
+    <file name="lupa.png" crc="502965900" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red.png" crc="3966786045" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico2.png" crc="3800871732" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico1.png" crc="441828208" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i-2.png" crc="4205438896" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i-4.png" crc="72624191" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i-3.png" crc="360226217" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i-1.png" crc="3784338035" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gloria.jpg" crc="415948391" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="albin.jpg" crc="204796550" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chaparro.jpg" crc="470982607" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xime.jpg" crc="3923289809" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pamela.jpg" crc="245346532" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cr.jpg" crc="464794921" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amador.jpg" crc="247049774" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="natalia.jpg" crc="125169087" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comi1_v.png" crc="3872335872" ref="index:noticias-patricio_chaparro:noticias_leandro:noticias-freddy_faundez">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comi2_v.png" crc="23309006" ref="index:noticias-patricio_chaparro:noticias_leandro:noticias-freddy_faundez">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yasna_m.jpg" crc="4117624057" ref="index:entrevista_yasna_m_c">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leandro-rey-u279525-fr.jpg" crc="237839252" ref="index"/>
+    <file name="logo_acreditacion_7_usach_m.png" crc="4204614511" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logodtgh.png" crc="487147040" ref="index:blog-version-01">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+    </file>
+    <file name="homechico.png" crc="3852684056" ref="index:blog-version-01">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+    </file>
+    <file name="telechico.png" crc="4240448001" ref="index:blog-version-01">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correochico.png" crc="476501928" ref="index:blog-version-01">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu.png" crc="415230793" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_n.png" crc="86999658" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leandro-rey-u279525-fr2.jpg" crc="222569456" ref="index"/>
+    <file name="leandro-rey.jpg" crc="4129150985" ref="index:noticias_rey_felipe:noticias_embajador_usach">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leandro-rey-u279525-fr3.jpg" crc="274167153" ref="index"/>
+    <file name="b1.jpg" crc="3855186426" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="laptop.png" crc="3899359" seo="true" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="mm1.jpg" crc="192803305" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="mm2.jpg" crc="4227891467" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="mm3.jpg" crc="520155049" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="ic-4.png" crc="186895488" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="ic-1.png" crc="4057306850" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="ic-5.png" crc="204750904" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="ic-3.png" crc="4105541826" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="gb1-u13117-fr.jpg" crc="522907146" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="g1-u13117-r-fr.jpg" crc="3999691566" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="gb55-u13279-fr.jpg" crc="4078679682" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="g4-u13279-r-fr.jpg" crc="4276887988" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="gb2-u13219-fr.jpg" crc="470947673" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="g2-u13219-r-fr.jpg" crc="523387616" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="firma2.png" crc="3959640838" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="b1-u14234-fr.jpg" crc="4189995978" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="laptop438x266.png" crc="3966160833" seo="true" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="b1-u14234-fr2.jpg" crc="4050096043" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="laptop480x291.png" crc="54881991" seo="true" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="gb1-u13117-fr2.jpg" crc="4047989052" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="g1-u13117-r-fr2.jpg" crc="3923617913" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="gb55-u13279-fr2.jpg" crc="223062783" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="g4-u13279-r-fr2.jpg" crc="501481632" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="gb2-u13219-fr2.jpg" crc="3910987757" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="g2-u13219-r-fr2.jpg" crc="68383908" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="b1-u14234-fr3.jpg" crc="4283084594" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="laptop280x170.png" crc="4076632366" seo="true" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="mm1-u13264-fr.jpg" crc="3925727557" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="mm2-u13262-fr.jpg" crc="417265040" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="mm3-u13263-fr.jpg" crc="207459239" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="gb1.jpg" crc="3792353125" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="g1.jpg" crc="521534979" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="gb55.jpg" crc="4003996068" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="g4.jpg" crc="3877751595" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="gb2.jpg" crc="165590798" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="g2.jpg" crc="384644717" ref="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="programa.jpg" crc="3833799772" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:gracias">
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="l-3.png" crc="470869539" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="l-4.png" crc="523357063" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="l-9.png" crc="3977797097" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="l-2.png" crc="524455087" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="l8.png" crc="345791991" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="l7.png" crc="3952935504" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="programa-u18771-fr.jpg" crc="3960363406" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:gracias"/>
+    <file name="programa-u18771-fr2.jpg" crc="3823510862" ref="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:gracias"/>
+    <file name="microsco.jpg" crc="166367114" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="gb4.jpg" crc="397757258" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="g4-u155909-r-fr.jpg" crc="4132582236" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="rl-n.jpg" crc="387874307" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="rl-c.jpg" crc="451780164" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="jc_travieso_bn.jpg" crc="3767213622" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="jc_travieso_color.jpg" crc="3825840137" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="v_joseluisb.jpg" crc="79524604" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="v-joseluisc.jpg" crc="3887952578" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="n-jpbnn.jpg" crc="4028189561" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="n-jpcc.jpg" crc="4147434631" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="y_carlosbn.jpg" crc="434641566" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="y_carlosc.jpg" crc="330619219" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="y_franciscobn.jpg" crc="3973418219" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="y_franciscoc.jpg" crc="297307286" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="kurt-bn.jpg" crc="4135318516" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="kurt.jpg" crc="245082178" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="y_bibianabn.jpg" crc="445640184" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="y_bibianac.jpg" crc="89352316" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="v-abelb.jpg" crc="167696043" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="v_abelc.jpg" crc="354832852" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="isidora_bn.jpg" crc="4039626268" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="isidora.jpg" crc="3901079381" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="y_edgardobn.jpg" crc="335593490" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="y_edgardoc.jpg" crc="3882378135" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="jaime-bn.jpg" crc="4123718765" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="jaime-color.jpg" crc="48855509" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="jt_n.jpg" crc="3909008830" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="jt_c.jpg" crc="509443950" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="vader-bn.jpg" crc="489062027" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="vader-color.jpg" crc="202245399" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="mario-letelier-bn.jpg" crc="4143609043" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="mario-letelier-color.jpg" crc="4290409048" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="cg-n.jpg" crc="351377471" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="cg-c.jpg" crc="4012395273" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+      <caption webpage="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="microsco-u19971-fr.jpg" crc="3871563528" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="microsco-u19971-fr2.jpg" crc="287297679" ref="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico"/>
+    <file name="bannernuevo2.jpg" crc="341445194" ref="noticias-patricio_chaparro:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:noticias-beca_especial:noticias_autoevaluacion:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:entrevista_yasna_m_c:noticias-natalia_garrido:blog-version-02">
+      <caption webpage="noticias-patricio_chaparro" alt=""/>
+      <caption webpage="blog-version-02" alt=""/>
+    </file>
+    <file name="chaparro2.jpg" crc="4019697144" ref="noticias-patricio_chaparro">
+      <caption webpage="noticias-patricio_chaparro" alt=""/>
+    </file>
+    <file name="logo-magiet-f-u35186-fr.png" crc="4230376889" ref="noticias-patricio_chaparro:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:noticias-beca_especial:noticias_autoevaluacion:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:entrevista_yasna_m_c:noticias-natalia_garrido"/>
+    <file name="logo-magiet-f-u35186-fr2.png" crc="4237933856" ref="noticias-patricio_chaparro:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:noticias-beca_especial:noticias_autoevaluacion:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:entrevista_yasna_m_c:noticias-natalia_garrido"/>
+    <file name="chaparro2-u35188-fr.jpg" crc="506116899" ref="noticias-patricio_chaparro"/>
+    <file name="fondo1.jpg" crc="4102493887" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:contacto2">
+      <caption webpage="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="telefono.png" crc="4244973449" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="correochico2.png" crc="476501928" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico">
+      <caption webpage="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="paper-contacto copia.jpg" crc="496059507" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:contacto2">
+      <caption webpage="contacto2" alt=""/>
+      <caption webpage="contacto2" alt=""/>
+      <caption webpage="contacto2" alt=""/>
+      <caption webpage="contacto2" alt=""/>
+      <caption webpage="contacto2" alt=""/>
+      <caption webpage="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico" alt=""/>
+    </file>
+    <file name="fondo1-u35851-fr.jpg" crc="4152805399" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:contacto2"/>
+    <file name="fondo1-u35851-fr2.jpg" crc="3765762471" ref="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico:contacto2"/>
+    <file name="388x259-ampuero.jpg" crc="4192432483" ref="noticias_leandro">
+      <caption webpage="noticias_leandro" alt=""/>
+    </file>
+    <file name="leandro-rey-u256598-fr.jpg" crc="349786310" ref="noticias_rey_felipe:noticias_embajador_usach"/>
+    <file name="jornada.jpg" crc="327584332" ref="noticias_jornada:noticias_autoevaluacion">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1.jpg" crc="450369384" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3772280759" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="3.jpg" crc="222549493" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="4.jpg" crc="119759127" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="5.jpg" crc="342479310" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3901497251" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4111122392" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="9.jpg" crc="250363180" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="10.jpg" crc="4096104296" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="11.jpg" crc="466685256" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4160753652" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="13.jpg" crc="457429925" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="14.jpg" crc="4287190255" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="15.jpg" crc="401408950" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="16.jpg" crc="4292790226" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="17.jpg" crc="4030353018" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="18.jpg" crc="107996485" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="19.jpg" crc="3957937721" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="20.jpg" crc="206000425" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="21.jpg" crc="410857242" seo="true" ref="noticias_jornada:noticias_autoevaluacion:acreditacion-magiet">
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_autoevaluacion" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="172x45.jpg" crc="136843134" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="272x45.jpg" crc="405993037" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="372x45.jpg" crc="3841942034" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="472x45.jpg" crc="4288406501" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="572x45.jpg" crc="4294479940" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="772x45.jpg" crc="295952127" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="872x45.jpg" crc="213165323" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="972x45.jpg" crc="419143931" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1072x45.jpg" crc="3848125639" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1172x45.jpg" crc="138914239" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1272x45.jpg" crc="355289703" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1372x45.jpg" crc="153854763" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1472x45.jpg" crc="386465100" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1572x45.jpg" crc="118130242" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1672x45.jpg" crc="483886740" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1772x45.jpg" crc="3865444626" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1872x45.jpg" crc="188375720" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1972x45.jpg" crc="4151219835" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="2072x45.jpg" crc="324304529" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="2172x45.jpg" crc="4201646608" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="1398x252.jpg" crc="4204373689" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="2398x252.jpg" crc="4249317722" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="3398x252.jpg" crc="4212985627" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="4398x252.jpg" crc="365941395" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="5398x252.jpg" crc="460465853" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="7398x252.jpg" crc="3957604378" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="8398x252.jpg" crc="4156469312" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="9398x252.jpg" crc="3835056909" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="10398x252.jpg" crc="4096334032" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="11398x252.jpg" crc="150894511" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="12398x252.jpg" crc="4108783695" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="13398x252.jpg" crc="10730640" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="14398x252.jpg" crc="315237583" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="15398x252.jpg" crc="3873005250" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="16398x252.jpg" crc="4065335777" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="17398x252.jpg" crc="148006581" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="18398x252.jpg" crc="3854913890" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="19398x252.jpg" crc="3789092361" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="20398x252.jpg" crc="444746375" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="21398x252.jpg" crc="174065254" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="jornada-u256822-fr.jpg" crc="122410360" ref="noticias_jornada:noticias_autoevaluacion"/>
+    <file name="1215x136.jpg" crc="3892261818" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="2215x136.jpg" crc="3976087482" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="3215x136.jpg" crc="81276585" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="4215x136.jpg" crc="4030239633" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="5215x136.jpg" crc="3780292370" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="7215x136.jpg" crc="225253362" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="8215x136.jpg" crc="4246458549" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="9215x136.jpg" crc="469466071" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="10215x136.jpg" crc="3777940566" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="11215x136.jpg" crc="441753495" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="12215x136.jpg" crc="3866482757" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="13215x136.jpg" crc="4153676078" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="14215x136.jpg" crc="3989950527" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="15215x136.jpg" crc="4081779768" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="16215x136.jpg" crc="4106241055" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="17215x136.jpg" crc="280870705" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="18215x136.jpg" crc="3933544500" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="19215x136.jpg" crc="46848164" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="20215x136.jpg" crc="197871702" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="21215x136.jpg" crc="4114852896" seo="true" ref="noticias_jornada">
+      <caption webpage="noticias_jornada" alt=""/>
+    </file>
+    <file name="innovo-noti.jpg" crc="4218458486" ref="noticias-curso_innovo:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="noticias-curso_innovo" alt=""/>
+    </file>
+    <file name="innovo-noti-u267538-fr.jpg" crc="192173396" ref="noticias-curso_innovo"/>
+    <file name="movia-noti.jpg" crc="3940410416" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-1.jpg" crc="4072260501" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-2.jpg" crc="360389080" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-3.jpg" crc="14705363" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-4.jpg" crc="486805682" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-5.jpg" crc="353058370" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-6.jpg" crc="4275566401" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-8.jpg" crc="88735322" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-7.jpg" crc="199397231" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-172x45.jpg" crc="3775707950" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-272x45.jpg" crc="3966547761" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-372x45.jpg" crc="384207857" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-472x45.jpg" crc="3835100627" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-572x45.jpg" crc="169283533" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-672x45.jpg" crc="241327775" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-872x45.jpg" crc="3956899456" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-772x45.jpg" crc="285937496" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-1398x251.jpg" crc="3855105383" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-2398x251.jpg" crc="332833338" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-3398x251.jpg" crc="303062528" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-4398x251.jpg" crc="3963018356" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-5398x251.jpg" crc="4045030552" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-6398x251.jpg" crc="4246718731" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-8398x251.jpg" crc="3763948864" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-7398x251.jpg" crc="3897716765" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="movia-noti-u278581-fr.jpg" crc="268764450" ref="noticias-manuel_mata"/>
+    <file name="antu-1215x136.jpg" crc="158135089" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-2215x136.jpg" crc="265086946" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-3215x136.jpg" crc="265888082" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-4215x136.jpg" crc="4022451543" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-5215x136.jpg" crc="3827454571" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-6215x136.jpg" crc="456187511" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-8215x136.jpg" crc="3908792263" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="antu-7215x136.jpg" crc="476004071" seo="true" ref="noticias-manuel_mata">
+      <caption webpage="noticias-manuel_mata" alt=""/>
+    </file>
+    <file name="magiet-beca.jpg" crc="440868986" ref="noticias-beca_especial">
+      <caption webpage="noticias-beca_especial" alt=""/>
+    </file>
+    <file name="magiet-beca-u281165-fr.jpg" crc="3923733536" ref="noticias-beca_especial"/>
+    <file name="al-3.jpg" crc="3911603991" ref="acreditacion-magiet">
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="acreditacionmagiet.jpg" crc="4292148803" ref="acreditacion-magiet:noticias_acreditacion">
+      <caption webpage="noticias_acreditacion" alt=""/>
+      <caption webpage="noticias_acreditacion" alt=""/>
+      <caption webpage="noticias_acreditacion" alt=""/>
+      <caption webpage="noticias_acreditacion" alt=""/>
+      <caption webpage="noticias_acreditacion" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="autoeva.png" crc="4044876862" ref="acreditacion-magiet">
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="a-1.png" crc="324512037" ref="acreditacion-magiet">
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="a-2.png" crc="81294219" ref="acreditacion-magiet">
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="a-3.png" crc="3882504327" ref="acreditacion-magiet">
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="a-4.png" crc="3954106578" ref="acreditacion-magiet">
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="check.png" crc="3896739671" ref="acreditacion-magiet">
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="a-flecha.png" crc="4191990190" ref="acreditacion-magiet">
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+      <caption webpage="acreditacion-magiet" alt=""/>
+    </file>
+    <file name="al-3-u300670-fr.jpg" crc="4009893111" ref="acreditacion-magiet"/>
+    <file name="al-3-u300670-fr2.jpg" crc="330701173" ref="acreditacion-magiet"/>
+    <file name="al-3-u300670-fr3.jpg" crc="165022512" ref="acreditacion-magiet"/>
+    <file name="tger2.jpg" crc="188472649" ref="noticias_geraldine_volcanes">
+      <caption webpage="noticias_geraldine_volcanes" alt=""/>
+    </file>
+    <file name="tger2-u321748-fr.jpg" crc="4236215088" ref="noticias_geraldine_volcanes"/>
+    <file name="tecnologias_de_gestion-7.jpg" crc="45218867" ref="noticias_acreditacion">
+      <caption webpage="noticias_acreditacion" alt=""/>
+    </file>
+    <file name="tecnologias_de_gestion-7-u331209-fr.jpg" crc="4196472320" ref="noticias_acreditacion"/>
+    <file name="freedy_fuandez.jpg" crc="4152818762" ref="noticias-freddy_faundez">
+      <caption webpage="noticias-freddy_faundez" alt=""/>
+    </file>
+    <file name="freedy_fuandez-u331369-fr.jpg" crc="390516473" ref="noticias-freddy_faundez"/>
+    <file name="natalia .jpg" crc="293063194" ref="index:noticias-natalia_garrido">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="noticias-natalia_garrido" alt=""/>
+    </file>
+    <file name="natalia -u9487-fr.jpg" crc="4027732076" ref="index"/>
+    <file name="author.jpg" crc="383311176" ref="blog-version-01">
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+      <caption webpage="blog-version-01" alt=""/>
+    </file>
+    <file name="blog_1-u33001-fr.jpg" crc="3902659436" ref="blog-version-01"/>
+    <file name="blog_3-u33006-fr.jpg" crc="356729662" ref="blog-version-01"/>
+    <file name="blog_2-u33012-fr.jpg" crc="85316082" ref="blog-version-01:noticias-patricio_chaparro"/>
+    <file name="blog_2.jpg" crc="3847231618" ref="blog-version-01:blog-version-02">
+      <caption webpage="blog-version-01" alt=""/>
+    </file>
+    <file name="blog_3.jpg" crc="358617952" ref="blog-version-01:blog-version-02">
+      <caption webpage="blog-version-01" alt=""/>
+    </file>
+    <file name="blog_2-u33769-fr.jpg" crc="3949970596" ref="blog-version-01"/>
+    <file name="blog_3-u33894-fr.jpg" crc="259846266" ref="blog-version-01"/>
+    <file name="blog_1.jpg" crc="345773310" ref="blog-version-02">
+      <caption webpage="blog-version-02" alt=""/>
+    </file>
+    <file name="blog_4.jpg" crc="345773310" ref="blog-version-02">
+      <caption webpage="blog-version-02" alt=""/>
+    </file>
+    <file name="blog_5.jpg" crc="3847231618" ref="blog-version-02">
+      <caption webpage="blog-version-02" alt=""/>
+    </file>
+    <file name="blog_6.jpg" crc="358617952" ref="blog-version-02">
+      <caption webpage="blog-version-02" alt=""/>
+    </file>
+    <file name="blog_1-u34422-fr.jpg" crc="529754139" ref="blog-version-02"/>
+    <file name="blog_2-u34427-fr.jpg" crc="64287651" ref="blog-version-02"/>
+    <file name="blog_3-u34435-fr.jpg" crc="3944552274" ref="blog-version-02"/>
+    <file name="blog_4-u34631-fr.jpg" crc="529754139" ref="blog-version-02"/>
+    <file name="blog_5-u34636-fr.jpg" crc="64287651" ref="blog-version-02"/>
+    <file name="blog_6-u34644-fr.jpg" crc="3944552274" ref="blog-version-02"/>
+    <file name="bannernuevo2-u34393-fr.jpg" crc="246880129" ref="blog-version-02:noticias-patricio_chaparro:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:noticias-beca_especial:noticias_autoevaluacion:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:entrevista_yasna_m_c:noticias-natalia_garrido"/>
+    <file name="bannernuevo2-u34393-fr2.jpg" crc="492659597" ref="blog-version-02:noticias-patricio_chaparro:noticias_leandro:noticias_rey_felipe:noticias_jornada:noticias-curso_innovo:noticias-manuel_mata:noticias-beca_especial:noticias_autoevaluacion:noticias_geraldine_volcanes:noticias_embajador_usach:noticias_acreditacion:noticias-freddy_faundez:entrevista_yasna_m_c:noticias-natalia_garrido"/>
+    <file name="blog_1-u34422-fr2.jpg" crc="4256766541" ref="blog-version-02"/>
+    <file name="blog_2-u34427-fr2.jpg" crc="4192508102" ref="blog-version-02"/>
+    <file name="blog_3-u34435-fr2.jpg" crc="295405335" ref="blog-version-02"/>
+    <file name="blog_4-u34631-fr2.jpg" crc="4256766541" ref="blog-version-02"/>
+    <file name="blog_5-u34636-fr2.jpg" crc="4192508102" ref="blog-version-02"/>
+    <file name="blog_6-u34644-fr2.jpg" crc="295405335" ref="blog-version-02"/>
+    <file name="mm1-u35215-fr.jpg" crc="18560886" ref="noticias-patricio_chaparro:noticias_rey_felipe:noticias_jornada:noticias_autoevaluacion"/>
+    <file name="388x259-ampuero-u35195-fr.jpg" crc="121552300" ref="noticias-patricio_chaparro:noticias_rey_felipe:noticias_jornada:noticias_autoevaluacion"/>
+    <file name="chaparro-u35222-a-fr.jpg" crc="4013760297" ref="noticias-patricio_chaparro:noticias_rey_felipe:noticias_jornada:noticias_autoevaluacion"/>
+    <file name="yasna_m-u281182-fr.jpg" crc="409980503" ref="noticias-beca_especial"/>
+    <file name="leandro-rey-u281168-fr.jpg" crc="4248802747" ref="noticias-beca_especial"/>
+    <file name="natalia -u281176-fr.jpg" crc="3782089669" ref="noticias-beca_especial"/>
+    <file name="natalia -u340809-fr.jpg" crc="4240883383" ref="noticias-natalia_garrido"/>
+    <file name="natalia -u340809-fr2.jpg" crc="4268259605" ref="noticias-natalia_garrido"/>
+    <file name="natalia -u340809-fr3.jpg" crc="143502782" ref="noticias-natalia_garrido"/>
+  </folder>
+  <file name="index.html" crc="466411408" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.html" crc="3772200935" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.html" crc="4178999468" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="magiet_.html" crc="294827875" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="programa_.html" crc="171203453" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="academicos_.html" crc="336821097" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.html" crc="3959579613" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="blog.html" crc="90425133" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias-patricio_chaparro.html" crc="3815343900" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.html" crc="3836763788" seo="true" mt="1669132605625" redirect="true"/>
+  <file name="noticias_leandro.html" crc="259271940" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias_rey_felipe.html" crc="4096178135" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias_jornada.html" crc="403496056" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias-curso_innovo.html" crc="4283077910" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias-manuel_mata.html" crc="4013828057" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="gracias.html" crc="401324669" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias-beca_especial.html" crc="60622722" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias_autoevaluacion.html" crc="3976811112" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="acreditacion-magiet.html" crc="276031177" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias_geraldine_volcanes.html" crc="271010307" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias_embajador_usach.html" crc="462316792" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias_acreditacion.html" crc="483859896" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias-freddy_faundez.html" crc="152002950" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="contacto2.html" crc="4259327795" seo="true" mt="1669132656874" redirect="true"/>
+  <file name="entrevista_yasna_m_c.html" crc="4125266006" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="noticias-natalia_garrido.html" crc="4199255654" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="blog-version-01.html" crc="4221827479" seo="true" mt="1669132594280" redirect="true"/>
+  <file name="blog-version-02.html" crc="3930822483" seo="true" mt="1669132594280" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <textLinkStyle className="social-widget" uid="U420"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="MAGISTER-Magíster_en_Gestión_de_la_Innovación_y_el_Emprendimiento_Tecnológico" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U138" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U134" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U126" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U83" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U302856" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U106" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U102" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U94" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U73" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U300811" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1200" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="MAGIET-MAGISTER_EN_GESTION_DE_LA_INNOVACION_Y_EL_EMPRENDIMIENTO_TECNOLOGICO" filename="magiet-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.html" muse_href="page:U14221" master="U72">
+        <breakpoint uid="U13774" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U12893" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U13550" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U13995" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U305847" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="PROGRAMA-MAGISTER_EN_GESTION_DE_LA_INNOVACION_Y_EL_EMPRENDIMIENTO_TECNOLOGICO" filename="programa-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.html" muse_href="page:U18035" master="U72">
+        <breakpoint uid="U17804" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U16903" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U17577" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U17351" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U306262" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="MAGIET_" filename="magiet_.html" muse_href="page:U18304" master="U72">
+        <breakpoint uid="U18282" maxwidth="1200" minwidth="0" squishy="true"/>
+        <breakpoint uid="U304161" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="PROGRAMA_" filename="programa_.html" muse_href="page:U18549" master="U72">
+        <breakpoint uid="U18527" maxwidth="1200" minwidth="0" squishy="true"/>
+        <breakpoint uid="U305609" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="ACADEMICOS_" filename="academicos_.html" muse_href="page:U19731" master="U72">
+        <breakpoint uid="U19709" maxwidth="1200" minwidth="0" squishy="true"/>
+        <breakpoint uid="U305617" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="ACADEMICOS-MAGISTER_EN_GESTION_DE_LA_INNOVACION_Y_EL_EMPRENDIMIENTO_TECNOLOGICO" filename="academicos-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.html" muse_href="page:U20178" master="U72">
+        <breakpoint uid="U20064" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U20102" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U19987" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U20141" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U306321" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="Blog version 01" filename="blog-version-01.html" muse_href="page:U32030" master="U72">
+        <breakpoint uid="U31925" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U31993" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U31885" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U31808" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U31846" maxwidth="1225" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U306869" maxwidth="1400" minwidth="1226" squishy="true"/>
+      </page>
+      <page name="Blog" filename="blog.html" muse_href="page:U32054" master="U72">
+        <breakpoint uid="U32032" maxwidth="1200" minwidth="0" squishy="true"/>
+        <breakpoint uid="U305784" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="Blog version 02" filename="blog-version-02.html" muse_href="page:U34419" master="U72">
+        <breakpoint uid="U34295" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U34030" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U34230" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U34163" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U34095" maxwidth="1225" minwidth="1201" squishy="false"/>
+        <breakpoint uid="U306934" maxwidth="1400" minwidth="1226" squishy="true"/>
+      </page>
+      <page name="NOTICIAS-PATRICIO_CHAPARRO" filename="noticias-patricio_chaparro.html" muse_href="page:U35224" master="U72">
+        <breakpoint uid="U35100" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U34835" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U35035" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U34968" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307202" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="CONTACTO-MAGISTER_EN_GESTION_DE_LA_INNOVACION_Y_EL_EMPRENDIMIENTO_TECNOLOGICO" filename="contacto-magister_en_gestion_de_la_innovacion_y_el_emprendimiento_tecnologico.html" muse_href="page:U35867" master="U72">
+        <breakpoint uid="U35679" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U35777" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U35729" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U35580" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U305792" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS_LEANDRO" filename="noticias_leandro.html" muse_href="page:U247956" master="U72">
+        <breakpoint uid="U247740" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U247872" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U247784" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U247828" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307725" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS_REY_FELIPE" filename="noticias_rey_felipe.html" muse_href="page:U256723" master="U72">
+        <breakpoint uid="U256631" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U256503" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U256679" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U256548" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307685" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS_JORNADA" filename="noticias_jornada.html" muse_href="page:U256947" master="U72">
+        <breakpoint uid="U256855" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U256727" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U256903" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U256772" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307385" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS-CURSO_INNOVO" filename="noticias-curso_innovo.html" muse_href="page:U267755" master="U72">
+        <breakpoint uid="U267574" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U267706" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U267618" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U267662" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307246" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS-MANUEL_MATA" filename="noticias-manuel_mata.html" muse_href="page:U278692" master="U72">
+        <breakpoint uid="U278522" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U278478" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U278649" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U278606" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307304" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="GRACIAS" filename="gracias.html" muse_href="page:U278992" master="U72">
+        <breakpoint uid="U278705" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U278802" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U278893" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U278753" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U306982" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS-BECA_ESPECIAL" filename="noticias-beca_especial.html" muse_href="page:U281277" master="U72">
+        <breakpoint uid="U281113" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U281067" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U281191" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U281235" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307346" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS_AUTOEVALUACION" filename="noticias_autoevaluacion.html" muse_href="page:U284177" master="U72">
+        <breakpoint uid="U283842" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U283390" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U283542" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U283692" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307535" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="ACREDITACION-MAGIET" filename="acreditacion-magiet.html" muse_href="page:U300792" master="U72">
+        <breakpoint uid="U300410" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U300694" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U300506" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U300314" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U307784" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS_GERALDINE_VOLCANES" filename="noticias_geraldine_volcanes.html" muse_href="page:U321911" master="U72">
+        <breakpoint uid="U321679" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U321832" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U321753" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U321872" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U321792" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS_EMBAJADOR_USACH" filename="noticias_embajador_usach.html" muse_href="page:U331084" master="U72">
+        <breakpoint uid="U331004" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U330886" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U330926" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U330965" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U331045" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS_ACREDITACION" filename="noticias_acreditacion.html" muse_href="page:U331220" master="U72">
+        <breakpoint uid="U331090" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U331112" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U331183" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U331158" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U331136" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS-FREDDY_FAUNDEZ" filename="noticias-freddy_faundez.html" muse_href="page:U331515" master="U72">
+        <breakpoint uid="U331426" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U331252" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U331299" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U331471" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U331382" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="CONTACTO2" filename="contacto2.html" muse_href="page:U334683" master="U72">
+        <breakpoint uid="U334630" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U334604" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U334574" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U334656" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U334529" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="ENTREVISTA_YASNA_M_C" filename="entrevista_yasna_m_c.html" muse_href="page:U340637" master="U72">
+        <breakpoint uid="U340551" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U340596" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U340529" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U340506" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U340573" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="NOTICIAS-Natalia_Garrido" filename="noticias-natalia_garrido.html" muse_href="page:U341114" master="U72">
+        <breakpoint uid="U340884" maxwidth="520" minwidth="0" squishy="false"/>
+        <breakpoint uid="U340678" maxwidth="760" minwidth="521" squishy="false"/>
+        <breakpoint uid="U340958" maxwidth="1000" minwidth="761" squishy="false"/>
+        <breakpoint uid="U341028" maxwidth="1200" minwidth="1001" squishy="false"/>
+        <breakpoint uid="U340814" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
